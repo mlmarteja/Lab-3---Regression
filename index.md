@@ -12,7 +12,12 @@ This site will contain:
 
 ### Program Code
 
-This code is written using python. Link: [here](https://github.com/mlmarteja/Lab-3---Regression/blob/master/Plant%20Height%20Data.ipynb).
+This code is written using python. 
+
+[Download Now](https://github.com/mlmarteja/Lab-3---Regression/blob/ac68a1b53f2cd25634dd23f93c1f0b1c63364977/Plant%20Height%20Data.ipynb){: .btn}
+
+
+Link: [here](https://github.com/mlmarteja/Lab-3---Regression/blob/master/Plant%20Height%20Data.ipynb).
 
 ```python
 import matplotlib.pyplot as plt
