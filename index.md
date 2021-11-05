@@ -80,23 +80,23 @@ main()
 ### Results
 Altitude and Height:
 
-![](https://github.com/mlmarteja/Lab-3---Regression/blob/9beb753390aec2ff1ed1c8585ffc183f98c22892/AltAndHeight.PNG)
+![AltAndHeight](https://user-images.githubusercontent.com/93753370/140563287-5de6ded0-37e7-483f-849d-84bee3d4a401.PNG)
 
 
 Rain and Height:
 
-![](https://github.com/mlmarteja/Lab-3---Regression/blob/7533e661d3b53f0aa6628865ad6f6118821fb0b6/RainAndHeight.PNG)
+![RainAndHeight](https://user-images.githubusercontent.com/93753370/140563288-eefa394b-d5e9-4baa-ac04-62c4f41dae9b.PNG)
 
 
 Site and Height:
 
 
-![](https://github.com/mlmarteja/Lab-3---Regression/blob/7533e661d3b53f0aa6628865ad6f6118821fb0b6/SiteAndHeight.PNG)
+![SiteAndHeight](https://user-images.githubusercontent.com/93753370/140563289-6b54024d-028d-4f52-9357-cbd24f9e232d.PNG)
 
 
 Temperature and Height:
 
-![](https://github.com/mlmarteja/Lab-3---Regression/blob/7533e661d3b53f0aa6628865ad6f6118821fb0b6/TempAndHeight.PNG)
+![TempAndHeight](https://user-images.githubusercontent.com/93753370/140563290-29875d61-671c-4af0-9057-da5aee95d984.PNG)
 
 ### Support or Contact
 
