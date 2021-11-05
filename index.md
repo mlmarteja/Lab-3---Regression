@@ -75,13 +75,25 @@ def RSquared(xDataSet,yDataSet):
 main()
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Results
+Altitude and Height:
 
-### Jekyll Themes
+![alt and height](https://github.com/mlmarteja/Lab-3---Regression/blob/7533e661d3b53f0aa6628865ad6f6118821fb0b6/AltAndHeight.PNG "Altitude and Height")
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mlmarteja/Lab-3---Regression/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-![alt and height](https://github.com/mlmarteja/Lab-3---Regression/blob/master/AltAndHeight.PNG)
+Rain and Height:
+
+![rain and height](https://github.com/mlmarteja/Lab-3---Regression/blob/7533e661d3b53f0aa6628865ad6f6118821fb0b6/RainAndHeight.PNG "Rain and Height")
+
+
+Site and Height:
+
+![site and height](https://github.com/mlmarteja/Lab-3---Regression/blob/7533e661d3b53f0aa6628865ad6f6118821fb0b6/SiteAndHeight.PNG "Site and Height")
+
+
+Temperature and Height:
+
+![temp and height](https://github.com/mlmarteja/Lab-3---Regression/blob/7533e661d3b53f0aa6628865ad6f6118821fb0b6/TempAndHeight.PNG "Temp and Height")
 
 ### Support or Contact
 
