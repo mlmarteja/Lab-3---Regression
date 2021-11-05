@@ -14,9 +14,6 @@ This site will contain:
 
 This code is written using python. 
 
-[Download Now](https://github.com/mlmarteja/Lab-3---Regression/blob/ac68a1b53f2cd25634dd23f93c1f0b1c63364977/Plant%20Height%20Data.ipynb){: .btn}
-
-
 Link: [here](https://github.com/mlmarteja/Lab-3---Regression/blob/master/Plant%20Height%20Data.ipynb).
 
 ```python
@@ -83,22 +80,23 @@ main()
 ### Results
 Altitude and Height:
 
-![alt and height](https://github.com/mlmarteja/Lab-3---Regression/blob/7533e661d3b53f0aa6628865ad6f6118821fb0b6/AltAndHeight.PNG "Altitude and Height")
+<img src=https://github.com/mlmarteja/Lab-3---Regression/blob/9beb753390aec2ff1ed1c8585ffc183f98c22892/AltAndHeight.PNG width="400" height="350" />
 
 
 Rain and Height:
 
-![rain and height](https://github.com/mlmarteja/Lab-3---Regression/blob/7533e661d3b53f0aa6628865ad6f6118821fb0b6/RainAndHeight.PNG "Rain and Height")
+<img src=https://github.com/mlmarteja/Lab-3---Regression/blob/7533e661d3b53f0aa6628865ad6f6118821fb0b6/RainAndHeight.PNG width="400" height="350" />
 
 
 Site and Height:
 
-![site and height](https://github.com/mlmarteja/Lab-3---Regression/blob/7533e661d3b53f0aa6628865ad6f6118821fb0b6/SiteAndHeight.PNG "Site and Height")
+
+<img src=https://github.com/mlmarteja/Lab-3---Regression/blob/7533e661d3b53f0aa6628865ad6f6118821fb0b6/SiteAndHeight.PNG width="400" height="350" />
 
 
 Temperature and Height:
 
-![temp and height](https://github.com/mlmarteja/Lab-3---Regression/blob/7533e661d3b53f0aa6628865ad6f6118821fb0b6/TempAndHeight.PNG "Temp and Height")
+<img src=https://github.com/mlmarteja/Lab-3---Regression/blob/7533e661d3b53f0aa6628865ad6f6118821fb0b6/TempAndHeight.PNG width="400" height="350" />
 
 ### Support or Contact
 
