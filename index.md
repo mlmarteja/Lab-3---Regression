@@ -12,31 +12,12 @@ This site will contain:
 
 ### Program Code
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+This code is written using python.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-
-`
+```python
 import matplotlib.pyplot as plt
 import pandas as pd
 import numpy as np
-
-
 
 ##Rain, Altitude, Site Number
 def main():
@@ -91,7 +72,7 @@ def RSquared(xDataSet,yDataSet):
 
 
 ##calling main##
-main()`
+main()
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
