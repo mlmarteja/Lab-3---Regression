@@ -112,31 +112,31 @@ To calculate the R-Sqaured of a dataset:
 
 When looking at the Plant Height data, the rain to height data showed that the line of best fit accounts for 14% of the spead of data points, which is the largst amongts the other datasets. The R-Sqaured of site to height is the lowest. This value is closer to 0 which means that the line of best fit does not account for most of the data points.
 
+
+
 ### Results
+
 #### Altitude and Height:
 
-
-```
 ![AltAndHeight](https://user-images.githubusercontent.com/93753370/140563287-5de6ded0-37e7-483f-849d-84bee3d4a401.PNG)
-```
+
 
 
 #### Rain and Height:
-```
+
 ![RainAndHeight](https://user-images.githubusercontent.com/93753370/140563288-eefa394b-d5e9-4baa-ac04-62c4f41dae9b.PNG)
-```
+
+
 
 #### Site and Height:
 
-```
 ![SiteAndHeight](https://user-images.githubusercontent.com/93753370/140563289-6b54024d-028d-4f52-9357-cbd24f9e232d.PNG)
-```
+
+
 
 #### Temperature and Height:
 
-```
 ![TempAndHeight](https://user-images.githubusercontent.com/93753370/140563290-29875d61-671c-4af0-9057-da5aee95d984.PNG)
-```
 
 
 
