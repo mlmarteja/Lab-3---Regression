@@ -31,18 +31,17 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 
-#imports
+`
 import matplotlib.pyplot as plt
 import pandas as pd
 import numpy as np
 
 
-`##Rain, Altitude, Site Number
+
+##Rain, Altitude, Site Number
 def main():
     plantData = pd.read_csv("PlantHeightData.csv", 
                             usecols = ['temp','height','alt','rain','site'])
-    ##scatter plot##
-
     ##x and y data sets
     temp = np.array(plantData["temp"])
     height = np.array(plantData["height"])
