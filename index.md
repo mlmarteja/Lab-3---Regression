@@ -1,8 +1,14 @@
-## Welcome to GitHub Pages
+## Welcome Lab 3 - Regression
 
-You can use the [editor on GitHub](https://github.com/mlmarteja/Lab-3---Regression/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+In this site, I will display the code that was written to illustrate Linear Regresstion with the use
+data of the [PLant Height Data](https://docs.google.com/spreadsheets/d/1bTjiX7XfyHbT3Qx0Jgwor96Vze8POf5g6epJY8epX6Q/edit?usp=sharing).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This site will contain:
+-**Scatter Plots**, as ways to visualize the data
+-**Line of Best Fit**, explain what best means and how we calculate the line 
+-**Standard Error**, what it is
+-**R Squared**, what it is and what it can tell us about the Line of Best Fit
+
 
 ### Markdown
 
