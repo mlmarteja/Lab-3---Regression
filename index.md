@@ -78,26 +78,27 @@ main()
 ```
 
 ### Results
-Altitude and Height:
+#### Altitude and Height:
+
+
 
 ![AltAndHeight](https://user-images.githubusercontent.com/93753370/140563287-5de6ded0-37e7-483f-849d-84bee3d4a401.PNG)
 
 
-Rain and Height:
+#### Rain and Height:
 
 ![RainAndHeight](https://user-images.githubusercontent.com/93753370/140563288-eefa394b-d5e9-4baa-ac04-62c4f41dae9b.PNG)
 
 
-Site and Height:
+#### Site and Height:
 
 
 ![SiteAndHeight](https://user-images.githubusercontent.com/93753370/140563289-6b54024d-028d-4f52-9357-cbd24f9e232d.PNG)
 
 
-Temperature and Height:
+#### Temperature and Height:
 
 ![TempAndHeight](https://user-images.githubusercontent.com/93753370/140563290-29875d61-671c-4af0-9057-da5aee95d984.PNG)
 
-### Support or Contact
+### Linear Regression
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
