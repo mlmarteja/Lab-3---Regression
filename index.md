@@ -12,7 +12,7 @@ This site will contain:
 
 ### Program Code
 
-This code is written using python. Link:[here](https://github.com/mlmarteja/Lab-3---Regression/blob/master/Plant%20Height%20Data.ipynb).
+This code is written using python. Link: [here](https://github.com/mlmarteja/Lab-3---Regression/blob/master/Plant%20Height%20Data.ipynb).
 
 ```python
 import matplotlib.pyplot as plt
@@ -80,6 +80,8 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mlmarteja/Lab-3---Regression/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
+![alt text](https://github.com/mlmarteja/Lab-3---Regression/master/alt%20and%20height.PNG)
 
 ### Support or Contact
 
