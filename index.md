@@ -1,4 +1,5 @@
 ## Welcome Lab 3 - Regression
+[My GitHub](https://github.com/mlmarteja/Lab-3---Regression.git)
 
 In this site, I will display the code that was written to illustrate Linear Regresstion with the use
 data of the [PLant Height Data](https://docs.google.com/spreadsheets/d/1bTjiX7XfyHbT3Qx0Jgwor96Vze8POf5g6epJY8epX6Q/edit?usp=sharing).
