@@ -80,23 +80,23 @@ main()
 ### Results
 Altitude and Height:
 
-![](https://github.com/mlmarteja/Lab-3---Regression/blob/9beb753390aec2ff1ed1c8585ffc183f98c22892/AltAndHeight.PNG width="400" height="350")
+![](https://github.com/mlmarteja/Lab-3---Regression/blob/9beb753390aec2ff1ed1c8585ffc183f98c22892/AltAndHeight.PNG)
 
 
 Rain and Height:
 
-<img src=https://github.com/mlmarteja/Lab-3---Regression/blob/7533e661d3b53f0aa6628865ad6f6118821fb0b6/RainAndHeight.PNG width="400" height="350" />
+![](https://github.com/mlmarteja/Lab-3---Regression/blob/7533e661d3b53f0aa6628865ad6f6118821fb0b6/RainAndHeight.PNG)
 
 
 Site and Height:
 
 
-<img src=https://github.com/mlmarteja/Lab-3---Regression/blob/7533e661d3b53f0aa6628865ad6f6118821fb0b6/SiteAndHeight.PNG width="400" height="350" />
+![](https://github.com/mlmarteja/Lab-3---Regression/blob/7533e661d3b53f0aa6628865ad6f6118821fb0b6/SiteAndHeight.PNG)
 
 
 Temperature and Height:
 
-<img src=https://github.com/mlmarteja/Lab-3---Regression/blob/7533e661d3b53f0aa6628865ad6f6118821fb0b6/TempAndHeight.PNG width="400" height="350" />
+![](https://github.com/mlmarteja/Lab-3---Regression/blob/7533e661d3b53f0aa6628865ad6f6118821fb0b6/TempAndHeight.PNG)
 
 ### Support or Contact
 
