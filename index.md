@@ -80,7 +80,7 @@ main()
 ### Results
 Altitude and Height:
 
-<img src=https://github.com/mlmarteja/Lab-3---Regression/blob/9beb753390aec2ff1ed1c8585ffc183f98c22892/AltAndHeight.PNG width="400" height="350" />
+![](https://github.com/mlmarteja/Lab-3---Regression/blob/9beb753390aec2ff1ed1c8585ffc183f98c22892/AltAndHeight.PNG width="400" height="350")
 
 
 Rain and Height:
