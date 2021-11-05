@@ -81,7 +81,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mlmarteja/Lab-3---Regression/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-![alt text](https://github.com/mlmarteja/Lab-3---Regression/master/alt%20and%20height.PNG)
+![alt and height](https://github.com/mlmarteja/Lab-3---Regression/blob/master/AltAndHeight.PNG)
 
 ### Support or Contact
 
